@@ -1,0 +1,21 @@
+#draw-card-btn{
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    display: none;
+}
+
+body{
+    background-color: green;
+}
+
+#card-div{
+    position: fixed; 
+    left: 45%;
+    top: 15%;
+    transform: translate(-50%, 0%);
+}
+
+.card-image {
+    position: absolute;
+}
