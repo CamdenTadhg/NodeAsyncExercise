@@ -1,0 +1,20 @@
+#get-pokemon {
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+#pokemon-div {
+    position: fixed;
+    left: 50%;
+    top: 15%;
+    transform: translate(-50%, 0%);
+    display: flex;
+    flex-direction: row
+}
+
+.pokemon-card {
+    background-color: lightblue;
+    border: 2px blue solid;
+    max-width: 30vw;
+}
